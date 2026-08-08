@@ -1,5 +1,4 @@
-````markdown
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm mohammad alinejad 👋
 
 ### 🤖 AI Engineer | Agentic AI | LLMs | Multi-Agent Systems
 
@@ -156,7 +155,6 @@ me = {
     "fun_fact":
         "I enjoy building systems where multiple AI components work together to solve complex problems."
 }
-````
 
 ---
 
