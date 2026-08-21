@@ -317,10 +317,5 @@ I'm always happy to discuss **ideas, projects, research, and opportunities**.
 
 ```
 
-**Only replace these two things before pasting:**
 
-1. `[Your Name]` → your actual name.
-2. `YOUR_USERNAME` → your GitHub username.
-
-I deliberately kept the README focused on **AI Engineering/Agentic AI** rather than making it a generic list of every technology you've ever touched. That will give recruiters a much clearer picture of the direction you're targeting.
 ```
