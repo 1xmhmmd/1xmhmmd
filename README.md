@@ -1,6 +1,6 @@
 # Hi there, I'm mohammad alinejad 👋
 
-### 🤖 AI Engineer | Agentic AI | LLMs | Multi-Agent Systems
+### 🤖 AI Engineer 
 
 I'm an AI-focused engineer and university student passionate about building intelligent systems with **LLMs, AI agents, tools, RAG, and multi-agent architectures**.
 
