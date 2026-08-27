@@ -12,11 +12,11 @@ I also have a strong foundation in **Machine Learning, Deep Learning, Computer V
 
 ### 🔭 I'm currently working on
 
-Building **agentic AI systems and LLM-based applications**, with a focus on AI agents, tool use, RAG, multi-agent architectures, and intelligent workflows.
+Building **agentic AI systems and LLM-based applications**, with a focus on AI agents, tool use, RAG, multi-agent architectures, and intelligent workflows with considering SecAI systems rules.
 
 ### 🤝 I'm looking to collaborate on
 
-**Agentic AI, LLM engineering, multi-agent systems, AI engineering, and open-source AI projects** where we can build practical and impactful AI systems.
+**Agentic AI, LLM engineering, multi-agent systems, AI engineering , open-source AI projects and Deep Learning projects* where we can build practical and impactful AI systems.
 
 ### 🫱 I'm looking for help with
 
@@ -30,7 +30,7 @@ The latest developments in **Agentic AI, AI Security, LLM capabilities, RAG, too
 
 **AI Agents, LLMs, RAG, Multi-Agent Systems, Machine Learning, Deep Learning, Computer Vision, and Computational Neuroscience.**
 
-I've studied these areas through university coursework and hands-on projects, with a particular interest in turning theoretical concepts into working AI systems.
+I've studied these areas through university coursework and hands-on projects and built a strong academical foundation in these fields, with a particular interest in turning theoretical concepts into working AI systems.
 
 ### ⚡ Fun fact
 
