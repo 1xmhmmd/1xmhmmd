@@ -90,27 +90,10 @@ I've worked on multiple university projects across these areas, helping me devel
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧑‍💻 My AI Engineering Philosophy
-
-> **Don't just use AI. Build systems with it.**
-
-I'm interested in the engineering side of modern AI — taking models and turning them into systems that can **reason, retrieve information, use tools, collaborate, and accomplish real tasks**.
-
-I'm continuously learning, experimenting, and building in the rapidly evolving world of **Agentic AI and LLM Engineering**.
-
----
 
 ## 📫 Let's Connect
 
-If you're interested in **AI Agents, LLMs, Multi-Agent Systems, AI Engineering, Computer Vision, Machine Learning, or just building cool things with AI**, feel free to connect with me.
+If you're interested in **AI Agents, LLMs, Multi-Agent Systems, AI Engineering, Computer Vision, Deep Learning , Computational Neuroscience or just building cool things with AI**, feel free to connect with me.
 
 I'm always happy to discuss **ideas, projects, research, and opportunities**.
 
