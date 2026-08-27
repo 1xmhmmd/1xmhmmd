@@ -81,16 +81,6 @@ I've worked on multiple university projects across these areas, helping me devel
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
 ## 📫 Let's Connect
 
 If you're interested in **AI Agents, LLMs, Multi-Agent Systems, AI Engineering, Computer Vision, Deep Learning , Computational Neuroscience or just building cool things with AI**, feel free to connect with me.
@@ -99,7 +89,4 @@ I'm always happy to discuss **ideas, projects, research, and opportunities**.
 
 ### 🚀 Thanks for stopping by!
 
-```
-
-
-```
+---
