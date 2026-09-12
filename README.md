@@ -16,13 +16,14 @@
 ## 💻 Skills
 
 - 🤖 LLM Engineering & Generative AI
-- 🧩 Agentic AI & AI Agents
-- 🔗 Multi-Agent Systems
+- 🧩 Agentic AI & AI Agents & Multi-Agent Systems
 - 🔎 Retrieval-Augmented Generation (RAG)
 - 🛠️ LLM Tools & Tool Calling
-- 🧠 Machine Learning & Deep Learning
+- 🧠 Deep Learning
 - 👁️ Computer Vision
+- 🤖 Machine Learning
 - 🧬 Computational Neuroscience
+- 📊 Data Science & Statistical Learning
 - 💻 Backend Development
 - 🏗️ API & Software Engineering
 - ⚡ Digital Electronics
