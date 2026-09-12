@@ -10,6 +10,7 @@
 - 🌱 Currently exploring **advanced Agentic AI, LLM capabilities, RAG, AI agents, tool use, multi-agent architectures, and AI Security**
 - 💬 Ask me about **AI Engineering, LLMs, AI Agents, RAG, Multi-Agent Systems, Machine Learning, Computer Vision, or Backend Development**
 - 🚀 I enjoy following and keeping up with cutting edge technologies (specially AI related ones)
+- Reach me with : Email : mohammad.alinejad000@gmail.com
 
 ---
 
