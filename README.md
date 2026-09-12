@@ -6,7 +6,7 @@
 - 💻 **Mid-level Backend Developer** with hands-on experience building backend systems and APIs using **Django and FastAPI**
 - 🎓 **B.Sc. in Digital Electronics and Computer Science** — Amirkabir University of Technology
 - 🧠 Strong academic foundation in **Machine Learning, Deep Learning, Computer Vision, Computational Neuroscience, and Digital Electronics**
-- 🔬 Hands-on experience through multiple **AI, Machine Learning, Computer Vision, Neuroscience, and Digital Electronics projects**
+- 🔬 Hands-on experience through multiple **Deep Learning, Computer Vision, Neuroscience, and Digital Electronics projects**
 - 🌱 Currently exploring **advanced Agentic AI, LLM capabilities, RAG, AI agents, tool use, multi-agent architectures, and AI Security**
 - 💬 Ask me about **AI Engineering, LLMs, AI Agents, RAG, Multi-Agent Systems, Machine Learning, Computer Vision, or Backend Development**
 - 🚀 I enjoy following and keeping up with cutting edge technologies (specially AI related ones)
