@@ -59,24 +59,3 @@
 
 ---
 
-## 🧠 AI Engineering
-
-```text
-                 LLMs
-                  │
-        ┌─────────┴─────────┐
-        ↓                   ↓
-     AI Agents             RAG
-        │                   │
-        ↓                   ↓
-  Tool Calling       Knowledge Systems
-        │                   │
-        └─────────┬─────────┘
-                  ↓
-         Multi-Agent Systems
-                  │
-                  ↓
-          Intelligent Workflows
-                  │
-                  ↓
-       Reliable AI Applications
