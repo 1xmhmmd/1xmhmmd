@@ -9,7 +9,7 @@
 - 🔬 Hands-on experience through multiple **AI, Machine Learning, Computer Vision, Neuroscience, and Digital Electronics projects**
 - 🌱 Currently exploring **advanced Agentic AI, LLM capabilities, RAG, AI agents, tool use, multi-agent architectures, and AI Security**
 - 💬 Ask me about **AI Engineering, LLMs, AI Agents, RAG, Multi-Agent Systems, Machine Learning, Computer Vision, or Backend Development**
-- 🚀 I enjoy turning **AI concepts and research ideas into real-world working systems**
+- 🚀 I enjoy turning keeping up and following cutting edge technologies (specially AI related ones)
 
 ---
 
